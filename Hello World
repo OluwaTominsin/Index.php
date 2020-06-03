@@ -7,3 +7,5 @@ Print ('Olaosebikan OluwaTominsin')
 Print ('HNG-04632')
 
 Print (' using phyton ') 
+
+Print('Your Message', flush=True) 
